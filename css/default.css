@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;800&display=swap');
+*{
+  margin:0%;
+  padding:0;
+  box-sizing:border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+:root {
+
+}
+
+
+
+
+
+ /* SCROLLER */ 
+.main_scroller{overflow-y:auto; overflow-x:hidden;}
+.main_scroller::-webkit-scrollbar {width: 0.5vw; }
+.main_scroller::-webkit-scrollbar-thumb{background-color: grey;}
+.main_scroller::-webkit-scrollbar-thumb:hover{background-color: red;}
+
+
+
+
+
+@media screen and (min-width: 1750px){     
+
+
+
+
+}
